@@ -1,4 +1,18 @@
 ### Hi there 👋
+```js
+const carnaezf = {
+  pronouns: "he" | "him",
+  code: [Javascript, Python, HTML],
+  tools: [VS, Node, Jupyter Notebook],
+  techCommunities: {
+                        member: "PythonChile",
+                      },
+ challenge: "
+I'm automating excel reports with python at work and learning Javascript for personal challenge."
+}
+```
+
+
 
 <!--
 **carnaezf/carnaezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

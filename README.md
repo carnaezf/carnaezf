@@ -2,13 +2,12 @@
 ```js
 const carnaezf = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, HTML],
-  tools: [VS, Node, Jupyter Notebook],
+  code: [Javascript, Python, HTML, React.js],
+  tools: [VS, Node, Jupyter Notebook, MongoDB],
   techCommunities: {
                         member: "PythonChile",
                       },
- challenge: "
-I'm automating excel reports with python at work and learning Javascript for personal challenge."
+ challenge: "Web development challenge accepted! Let's build impactful websites together."
 }
 ```
 

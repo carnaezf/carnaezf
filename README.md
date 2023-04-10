@@ -2,7 +2,7 @@
 ```js
 const carnaezf = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, HTML, React.js],
+  code: [Javascript, Python, HTML, React.js, css],
   tools: [VS, Node, Jupyter Notebook, MongoDB],
   techCommunities: {
                         member: "PythonChile",

@@ -7,14 +7,14 @@ Soy un desarrollador de software apasionado por la programación en Python, Java
 - 🔭 Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías modernas como Python, JavaScript, React y Node.js.
 - 🌱 Me encanta aprender y mejorar constantemente mis habilidades de programación.
 - 🤝 Estoy interesado en proyectos de código abierto y colaboración en Git y GitHub.
-- 🐶 Soy un amante de los perros y siempre estoy dispuesto a compartir historias sobre mis adorables mascotas.
+- 🐶 Soy un amante de los perros, mi mascote se llama Negrita.
 - 🥋 Además, practico Taekwondo, lo cual me ayuda a mantenerme enfocado y disciplinado en mi trabajo.
 
 ## Contacto
 
 ¡Estoy emocionado por embarcarme en mi carrera en TI y contribuir en proyectos innovadores! Si estás interesado en colaborar o simplemente quieres charlar, ¡no dudes en contactarme!
 
-- 📧 [Correo electrónico](mailto:cesar.arnaez@email.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/cesar-arnaez/)
-- 🐦 [Twitter](https://twitter.com/cesar_arnaez)
+- 📧 [Correo electrónico](c_arnaez.flores@hotmail.com)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/cesar-arnaez/](https://www.linkedin.com/in/carnaez/))
+
 

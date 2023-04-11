@@ -15,6 +15,6 @@ Soy un desarrollador de software apasionado por la programación en Python, Java
 ¡Estoy emocionado por embarcarme en mi carrera en TI y contribuir en proyectos innovadores! Si estás interesado en colaborar o simplemente quieres charlar, ¡no dudes en contactarme!
 
 - 📧 [Correo electrónico](c_arnaez.flores@hotmail.com)
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/cesar-arnaez/](https://www.linkedin.com/in/carnaez/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/carnaez/)
 
 

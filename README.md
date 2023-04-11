@@ -1,30 +1,52 @@
-### Hi I'm Cesar 👋
-```js
-const carnaezf = {
-  pronouns: "he" | "him",
-  code: [Javascript, Python, HTML, React.js, css],
-  tools: [VS, Node, Jupyter Notebook, MongoDB],
-  techCommunities: {
-                        member: "PythonChile",
-                      },
- challenge: "Web development challenge accepted! Let's build impactful websites together."
-}
-```
 
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
+# Folder config file
+Desktop.ini
 
-<!--
-**carnaezf/carnaezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-Here are some ideas to get you started:
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+.idea
+/.vs
 

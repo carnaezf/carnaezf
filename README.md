@@ -7,7 +7,7 @@ Soy un desarrollador de software apasionado por la programación en Python, Java
 - 🔭 Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías modernas como Python, JavaScript, React y Node.js.
 - 🌱 Me encanta aprender y mejorar constantemente mis habilidades de programación.
 - 🤝 Estoy interesado en proyectos de código abierto y colaboración en Git y GitHub.
-- 🐶 Soy un amante de los perros, mi mascote se llama Negrita.
+- 🐶 Soy un amante de los perros, mi mascota se llama Negrita.
 - 🥋 Además, practico Taekwondo, lo cual me ayuda a mantenerme enfocado y disciplinado en mi trabajo.
 
 ## Contacto

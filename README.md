@@ -18,3 +18,4 @@ Soy un desarrollador de software apasionado por la programación en Python, Java
 - 🔗 [LinkedIn](https://www.linkedin.com/in/carnaez/)
 
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=carnaezf&show_icons=true&theme=radical)

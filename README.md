@@ -19,3 +19,5 @@ Soy un desarrollador de software apasionado por la programación en Python, Java
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=carnaezf&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carnaez&layout=compact&theme=radical)

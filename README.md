@@ -1,8 +1,3 @@
-# Primer nivel de encabezado
-## Segundo nivel de encabezado
-### Tercer nivel de encabezado
-#### Cuarto nivel de encabezado
-
 # ¡Hola! Soy Cesar Arnaez 👋
 
 Soy un desarrollador de software apasionado por la programación en Python, JavaScript, React y Node.js. Actualmente, estoy en busca de mi primera oportunidad en el campo de la tecnología de la información.

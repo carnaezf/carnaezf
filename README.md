@@ -4,8 +4,6 @@ Desarrollador web con experiencia en WordPress, Shopify, Django, React, Node.js 
 Construyo soluciones digitales, integraciones web, APIs y herramientas prácticas orientadas a resolver problemas reales. 
 ## Contacto
 
-¡Estoy emocionado por embarcarme en mi carrera en TI y contribuir en proyectos innovadores! Si estás interesado en colaborar o simplemente quieres charlar, ¡no dudes en contactarme!
-
 - 📧 [Correo electrónico](c_arnaez.flores@hotmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/carnaez/)
 
